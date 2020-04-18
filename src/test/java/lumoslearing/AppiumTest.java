@@ -11,9 +11,15 @@ public class AppiumTest {
 	}
 	
 	@Test
+
 	public void nativeAppfunTest()
 	{
 		System.out.println("Mobile Native App fuctionality Testing");
+	}
+	public void nativeAppUI()
+	{
+		System.out.println("Mobile Native App UI Testing");
+
 	}
 	
 	@Test
@@ -23,8 +29,15 @@ public class AppiumTest {
 	}
 	
 	@Test
+
 	public void iosAppfunTest()
 	{
 		System.out.println("Mobile ios App functionality Testing");
+
+	}
+		public void iosAppUI()
+	{
+		System.out.println("Mobile ios App UI Testing");
+
 	}
 }
