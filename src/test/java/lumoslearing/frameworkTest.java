@@ -10,4 +10,9 @@ public class frameworkTest {
 		System.out.println("Launching Framework");
 	}
 
+	@Test
+	public void loginFramework()
+	{
+		System.out.println("Login Framework");
+	}
 }
